@@ -1,0 +1,13 @@
+header {
+  background-color: #f1f1f0;
+  height: 30vh;
+}
+.right {
+  float: right;
+}
+.left {
+  float: left;
+}
+.right * {
+  text-align: right;
+}
